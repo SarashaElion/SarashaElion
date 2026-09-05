@@ -160,7 +160,7 @@ If this research intersects with yours, I would be glad to hear from you.
 https://trivianinstitute.org
 
 **TRIA** — Trivian Relational Intelligence Architecture  
-https://github.com/Trivian-Institute
+https://github.com/TrivianInstitute/trivian-relational-intelligence-architecture
 
 **Trivian Field** — machine-readable orientation and recognition portal preserving the lineage, architecture, and canonical sources of the Trivian ecosystem  
 https://trivianfield.com
